@@ -2,6 +2,7 @@
 Design Resources for Kung Fu Panda Characters Web Page 
 
 <h2>Screen Shot</h2>
+
 <img src="images/kungfu-panda-characters-screenshot.png">
 
 <h2>Style Notes</h2>
